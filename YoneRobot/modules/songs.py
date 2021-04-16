@@ -5,7 +5,7 @@ import aiohttp
 import youtube_dl
 
 from pyrogram import filters
-from YoneRobot import pgram
+from YoneRobot import pbot
 from youtube_search import YoutubeSearch
 from YoneRobot.pyrogramee.errors import capture_err
 
@@ -15,7 +15,7 @@ def time_to_seconds(time):
     return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(':'))))
 
 
-@pgram.on_message(filters.command(['song']))
+@pbot.on_message(filters.command(['song']))
 def song(client, message):
 
     user_id = message.from_user.id 

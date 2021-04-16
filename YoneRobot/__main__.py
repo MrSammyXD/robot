@@ -80,18 +80,22 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(
-            text="➕️ ADD YONE TO YOUR GROUP ➕️", url="t.me/Yone_Robot?startgroup=true"),
+        InlineKeyboardButton(text="Help & Commands ❔", callback_data="help_back"),
+        
     ],
-    [
-        InlineKeyboardButton(text="ℹ️ ABOUT", callback_data="yone_"),
-        InlineKeyboardButton(text="📚 COMMANDS", callback_data="help_back"),
-    ],
+
     [
         InlineKeyboardButton(
-            text="🤴 OWNER", url="https://t.me/A_viyu"),
+            text="Support 🔧", url="t.me/Innexiasupport"
+        ),
         InlineKeyboardButton(
-            text="👥 SUPPORT", url="https://t.me/Kora_Support"
+            text="Updates 📢", url="t.me/InnexiaUpdates"
+        ),
+    ],
+
+    [
+        InlineKeyboardButton(
+            text="Add To Group 👥", url="t.me/Innexiabot?startgroup=true"
         ),
     ],
 ]

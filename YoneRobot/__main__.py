@@ -89,7 +89,7 @@ buttons = [
             text="Support 🔧", url="t.me/Innexiasupport"
         ),
         InlineKeyboardButton(
-            text="Updates 📢", url="t.me/InnexiaUpdates"
+            text="Language", callback_data="lang_btn"
         ),
     ],
 

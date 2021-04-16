@@ -100,9 +100,9 @@ buttons = [
 
 
 HELP_STRINGS = """
-*SETTINGS*
+`SETTINGS`[!](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg)
 `✪ Select one of the settings that you want to change!`
-`✪ Join Support Group` @InnexiaSupport!"""
+`✪ Join Support Group..`"""
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

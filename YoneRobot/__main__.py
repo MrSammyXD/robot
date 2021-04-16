@@ -102,7 +102,7 @@ buttons = [
 HELP_STRINGS = """
 *SETTINGS*
 `✪ Select one of the settings that you want to change!`
-`✪ Join Support Group` @InnexiaSupport!
+`✪ Join Support Group` @InnexiaSupport!"""
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

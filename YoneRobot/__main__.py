@@ -102,11 +102,11 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [yone🙋‍♀️](https://telegra.ph/file/7e61fe06a9c02747249c4.jpg)
+*SETTINGS*
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
-yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
+
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @kittu5588 \

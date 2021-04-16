@@ -1,0 +1,3 @@
+files:
+  - source: YoneRobot/localization/en.yaml
+    translation: /**/YoneRobot/localization/%locale_with_underscore%.yaml

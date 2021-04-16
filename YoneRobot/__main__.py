@@ -7,7 +7,7 @@ from typing import Optional
 from . import MOD_HELP
 from .language import select_lang_keyboard
 from .utils.disable import disableable_dec
-from .YoneRobot/utils.language import get_strings_dec
+from YoneRobot/utils.language import get_strings_dec
 
 from YoneRobot import (
     ALLOW_EXCL,

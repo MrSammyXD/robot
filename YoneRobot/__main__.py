@@ -74,34 +74,35 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Heya 🤗 I am` *INNEXIA* `your group super bot I am very fast and  more efficient I provide awesome Features which a owner will look for  filter ,warn system,note keeping system,flood!` 
+`Heya` [🤗](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg) `I am` *INNEXIA* `your group super bot I am very fast and  more efficient I provide awesome Features which a owner will look for  filter ,warn system,note keeping system,flood!` 
+
+
 
 buttons = [
     [
-        InlineKeyboardButton(text="Help & Commands ❔", callback_data="help_back"),
-        
+        InlineKeyboardButton(
+            text="❔ Help & Commands", callback_data="help_back"),
     ],
-
+    [
+        InlineKeyboardButton(text="ℹ️ ABOUT", callback_data="yone_"),
+        InlineKeyboardButton(text="👥 ADD ME", url="t.me/Yone_Robot?startgroup=true"),
+    ],
     [
         InlineKeyboardButton(
-            text="Support 🔧", url="t.me/Innexiasupport"
-        ),
+            text="📢 Updates", url="https://t.me/InnexiaUpdates"),
         InlineKeyboardButton(
-            text="Updates 📢", url="t.me/InnexiaUpdates"
-        ),
-    ],
-
-    [
-        InlineKeyboardButton(
-            text="Add To Group 👥", url="t.me/Innexiabot?startgroup=true"
+            text="👮 SUPPORT", url="https://t.me/innexiaSupport"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Select one of the settings that you want to change..`"""
+`Hi.. I'm` [innexia🙋‍♀️](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg)
+`Click on the buttons below to get documentation about specific modules..`"""
 
+
+yone_IMG = "https://telegra.ph/file/f577aae4d673bd30ebd88.jpg"
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

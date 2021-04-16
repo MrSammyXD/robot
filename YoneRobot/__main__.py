@@ -100,11 +100,9 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [innexia🙋‍♀️](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg)
 `Select one of the settings that you want to change..`"""
 
 
-yone_IMG = "https://telegra.ph/file/f577aae4d673bd30ebd88.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @OpSammy \

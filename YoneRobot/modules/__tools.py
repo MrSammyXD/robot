@@ -21,11 +21,7 @@ _Admins only:_
  ❍ /decrypt*:* Decrypts Previously Ecrypted Text
  ❍ /zip*:* reply to a telegram file to compress it in .zip format
  ❍ /unzip*:* reply to a telegram file to decompress it from the .zip format
-
-*NightMoDe*
-❍ /nightmode [on/off]: turns on/off nightmode
-❍ /setnightmode [zone|closing time|opening time]: sets the time details
-❍ /setnightmode America/New_York | 12:00:00 PM | 07:00:00 AM
 """
+
 
 

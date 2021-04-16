@@ -100,7 +100,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`SETTINGS`[👩‍✈️](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg)
+`INNEXIA` [SETTINGS](https://telegra.ph/file/f577aae4d673bd30ebd88.jpg)
 `✪ Select one of the settings that you want to change..`"""
 
 

@@ -1,4 +1,3 @@
-from YoneRobot import CMD_HELP
 from YoneRobot.events import register
 from YoneRobot import tbot, OWNER_ID
 import os
@@ -56,4 +55,4 @@ Module Not Finished.!
 Send Logo Bgs and Fonts to Bot DM! will add to module.
 """
 
-CMD_HELP.update({file_helpo: [file_helpo, __help__]})
+

@@ -22,7 +22,7 @@ async def lego(event):
  await event.reply('Drawing Text On Pic.Weit!')
  try:
     text = event.pattern_match.group(1)
-    img = Image.open('./YoneRobot/resources/innexia.jpg')
+    img = Image.open('./YoneRobot/resources/Blankmeisnub.jpg')
     draw = ImageDraw.Draw(img)
     image_widthz, image_heightz = img.size
     pointsize = 500
@@ -48,11 +48,11 @@ file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
 file_helpo = file_help.replace("_", " ")
 
-__help__ = """
- In Beta!.
- - /logo <text>
-Module Not Finished.!
-Send Logo Bgs and Fonts to Bot DM! will add to module.
-"""
+## __help__ = """
+## In Beta!.
+## - /logo <text>
+## Module Not Finished.!
+## Send Logo Bgs and Fonts to Bot DM! will add to module.
+## """
 
 

@@ -22,8 +22,8 @@ __help__ = """
  /resume to resume the playback. 
  Inline search is also supported.
 
-❇ * More Tools* ❇
+❇ *More Tools* ❇
 /admincache: Updates admin info of your group. Try if bot isn't recognize admin💹💹
 
-🔴 *PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME*🔴
+*PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME*
 """
